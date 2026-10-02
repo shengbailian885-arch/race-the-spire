@@ -1,0 +1,12 @@
+{
+  "id": "SpireRace",
+  "name": "尖塔竞速（原型）",
+  "author": "soyo",
+  "description": "2–4 人独立单人爬塔竞速原型；仅适配 public-beta v0.111.0。",
+  "version": "0.6.4",
+  "has_dll": true,
+  "has_pck": false,
+  "affects_gameplay": true,
+  "min_game_version": "0.111.0",
+  "dependencies": []
+}
